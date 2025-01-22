@@ -2,8 +2,8 @@ const externa ="Ola Mundo , Gabriel entrando no seu ";
 console.log (externa)
 function exemplovar() {
     if (true) {
-        var mensagen = "ola faculdade,sou uma var "
+        var mensagen2 = "ola faculdade,sou uma var "
     } 
-    console.log (mensagen)
+    console.log (mensagen2)
 }
 exemplovar()
